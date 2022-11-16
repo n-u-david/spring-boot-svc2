@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.schwpoc</groupId>
-	<artifactId>spring-boot-svc1</artifactId>
+	<artifactId>spring-boot-svc2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-svc1</name>
 	<description>Demo project for Spring Boot</description>
